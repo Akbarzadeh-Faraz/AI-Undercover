@@ -1,16 +1,6 @@
+AI Undercover: AI Bots in the world of AI Cheat Detection
 
-#AI Undercover
-AI Bots in the world of AI Cheat Detection
-
-
-
-Faraz Akbarzadeh
-Adil Guluzade 
-Santusht Arora 
-
-
-
-#Phenomenon Overview 
+Phenomenon Overview 
 
 The media environment undergoes rapid transformation through artificial intelligence which reshapes digital interactions at their core. The continuous battle between AI-enabled cheating systems and their anti-cheat detection counterparts represents a significant and growing trend in media transformation. The online gaming environment showcases a complex interaction where cheating AI updates its methods to avoid detection and anti-cheating mechanisms develop new strategies to recognize and neutralize these advanced threats (Chen, 2024; Skinner & Walmsley, 2019).
  
@@ -30,7 +20,7 @@ Our study of this phenomenon is best demonstrated through sequential annotated v
 
 
 
-#Simulation Design & Implementation
+Simulation Design & Implementation
 
 System Overview: This project simulation models complex interactions between three main agent types which include standard players resembling humans, cheat bots operated by AI technology, and cheat detection bots also controlled by AI systems. The simulation aims to investigate how AI-to-AI interactions produce emergent behavior patterns in a competitive game environment based on Slither.io.
 
@@ -69,7 +59,7 @@ Our simulation model reaches high technical precision and deep analytical capaci
 
 
 
-#Observations & Results 
+Observations & Results 
 
 Illustrating the Phenomenon of Interest: The simulation results clearly show how AI-to-AI interactions develop in online gaming through the adaptive interactions between cheating bots and anti-cheat systems. As the simulation advances through its different phases, the fundamental phenomenon of adaptive evasion versus detection becomes apparent. The central observation demonstrates the evolutionary battle between cheat bots that adjust to detection methods and cheat detectors which consistently upgrade their methods to stay effective.
 
@@ -101,7 +91,7 @@ Going Above and Beyond: Our study uses sophisticated data analysis methods to br
 
 Our findings advance knowledge about AI interactions in digital systems while emphasizing the need for adaptable detection methods in online games. Enhancing detection systems through predictive algorithms designed to proactively counter bot evasion methods will maintain their effectiveness against evolving threats.
 
-#Ethical & Societal Reflections 
+Ethical & Societal Reflections 
 
 Ethical Considerations: A primary ethical consideration for our simulation project centers around how we manage data and protect privacy. Our simulation avoided direct privacy violations because it didn't use actual data sources such as social media interactions or player behavior logs. The model functioned entirely within a synthetic framework built on theoretical principles together with simulated agent behaviors which eradicated any potential risks to personal data misuse or privacy violations.
 
@@ -120,7 +110,7 @@ Repurposing Concerns: Our simulation framework could be used for malicious purpo
 Going Above and Beyond: Our reflection finds its basis in both the technical simulation results as well as an in-depth analysis of ethical standards and AI management guidelines. Our simulation outcomes combined with real-world gaming controversies driven by excessive cheat detection measures demonstrate why AI implementations must maintain balance and transparency. Research going forward must investigate cheat detection technology advancements and the societal and ethical structures that direct their deployment in practical environments.
 
 
-#Lessons Learned & Future Directions
+Lessons Learned & Future Directions
 
 Design and Development Reflections: The development of our agent-based simulation model encountered multiple technical and conceptual obstacles across its entire creation process. Our main difficulty involved embedding realistic behavioral dynamics into the simulation without sacrificing computational efficiency. The need to simulate numerous agents with diverse behaviors resulted in higher computational demands which caused problems including system lag and delayed processing. We improved the model's performance by decreasing non-essential update occurrences while using advanced data structures to manage agent states.
 
@@ -143,7 +133,7 @@ Our research findings highlight the necessity for AI governance frameworks to be
 Going Above and Beyond: The reflective analysis identifies technical model challenges while proposing actionable improvements for future development. We support dynamic and adaptive detection mechanisms to help advance discussions about AI ethics and platform governance. The combination of community-driven detection systems with machine learning pattern recognition methods constitutes an innovative strategy which matches the ongoing transformation of AI interactions across media platforms.
 
 
-#References 
+References 
 
 Chen, M. (2024). AI cheating versus AI anti-cheating: A technological battle in game. Applied and Computational Engineering, 73(1), 222–227. https://doi.org/10.54254/2755-2721/73/20240402
 Skinner, G., & Walmsley, T. (2019). Artificial intelligence and deep learning in video games: A brief review. In 2019 IEEE 4th International Conference on Computer and Communication Systems (ICCCS) (pp. 404–408). IEEE. https://doi.org/10.1109/CCOMS.2019.8821783
