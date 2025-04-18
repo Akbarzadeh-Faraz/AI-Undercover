@@ -1,18 +1,16 @@
 
-AI Undercover
+#AI Undercover
 AI Bots in the world of AI Cheat Detection
 
 
 
-Faraz Akbarzadeh (Leader/Facilitator)
-Adil Guluzade (Checker/Editor)
-Santusht Arora (Devil’s advocate)
-GitHub: https://github.com/adilgulu/EECS4461
+Faraz Akbarzadeh
+Adil Guluzade 
+Santusht Arora 
 
 
 
-
-Phenomenon Overview 
+#Phenomenon Overview 
 
 The media environment undergoes rapid transformation through artificial intelligence which reshapes digital interactions at their core. The continuous battle between AI-enabled cheating systems and their anti-cheat detection counterparts represents a significant and growing trend in media transformation. The online gaming environment showcases a complex interaction where cheating AI updates its methods to avoid detection and anti-cheating mechanisms develop new strategies to recognize and neutralize these advanced threats (Chen, 2024; Skinner & Walmsley, 2019).
  
@@ -32,15 +30,7 @@ Our study of this phenomenon is best demonstrated through sequential annotated v
 
 
 
-
-
-
-
-
-
- 
-
-Simulation Design & Implementation
+#Simulation Design & Implementation
 
 System Overview: This project simulation models complex interactions between three main agent types which include standard players resembling humans, cheat bots operated by AI technology, and cheat detection bots also controlled by AI systems. The simulation aims to investigate how AI-to-AI interactions produce emergent behavior patterns in a competitive game environment based on Slither.io.
 
@@ -79,7 +69,7 @@ Our simulation model reaches high technical precision and deep analytical capaci
 
 
 
-Observations & Results 
+#Observations & Results 
 
 Illustrating the Phenomenon of Interest: The simulation results clearly show how AI-to-AI interactions develop in online gaming through the adaptive interactions between cheating bots and anti-cheat systems. As the simulation advances through its different phases, the fundamental phenomenon of adaptive evasion versus detection becomes apparent. The central observation demonstrates the evolutionary battle between cheat bots that adjust to detection methods and cheat detectors which consistently upgrade their methods to stay effective.
 
@@ -111,7 +101,7 @@ Going Above and Beyond: Our study uses sophisticated data analysis methods to br
 
 Our findings advance knowledge about AI interactions in digital systems while emphasizing the need for adaptable detection methods in online games. Enhancing detection systems through predictive algorithms designed to proactively counter bot evasion methods will maintain their effectiveness against evolving threats.
 
-Ethical & Societal Reflections 
+#Ethical & Societal Reflections 
 
 Ethical Considerations: A primary ethical consideration for our simulation project centers around how we manage data and protect privacy. Our simulation avoided direct privacy violations because it didn't use actual data sources such as social media interactions or player behavior logs. The model functioned entirely within a synthetic framework built on theoretical principles together with simulated agent behaviors which eradicated any potential risks to personal data misuse or privacy violations.
 
@@ -130,9 +120,7 @@ Repurposing Concerns: Our simulation framework could be used for malicious purpo
 Going Above and Beyond: Our reflection finds its basis in both the technical simulation results as well as an in-depth analysis of ethical standards and AI management guidelines. Our simulation outcomes combined with real-world gaming controversies driven by excessive cheat detection measures demonstrate why AI implementations must maintain balance and transparency. Research going forward must investigate cheat detection technology advancements and the societal and ethical structures that direct their deployment in practical environments.
 
 
-
-
-Lessons Learned & Future Directions
+#Lessons Learned & Future Directions
 
 Design and Development Reflections: The development of our agent-based simulation model encountered multiple technical and conceptual obstacles across its entire creation process. Our main difficulty involved embedding realistic behavioral dynamics into the simulation without sacrificing computational efficiency. The need to simulate numerous agents with diverse behaviors resulted in higher computational demands which caused problems including system lag and delayed processing. We improved the model's performance by decreasing non-essential update occurrences while using advanced data structures to manage agent states.
 
@@ -155,39 +143,10 @@ Our research findings highlight the necessity for AI governance frameworks to be
 Going Above and Beyond: The reflective analysis identifies technical model challenges while proposing actionable improvements for future development. We support dynamic and adaptive detection mechanisms to help advance discussions about AI ethics and platform governance. The combination of community-driven detection systems with machine learning pattern recognition methods constitutes an innovative strategy which matches the ongoing transformation of AI interactions across media platforms.
 
 
-
-
-
-References 
+#References 
 
 Chen, M. (2024). AI cheating versus AI anti-cheating: A technological battle in game. Applied and Computational Engineering, 73(1), 222–227. https://doi.org/10.54254/2755-2721/73/20240402
 Skinner, G., & Walmsley, T. (2019). Artificial intelligence and deep learning in video games: A brief review. In 2019 IEEE 4th International Conference on Computer and Communication Systems (ICCCS) (pp. 404–408). IEEE. https://doi.org/10.1109/CCOMS.2019.8821783
 Arai, K., Deguchi, H., & Matsui, H. (n.d.). Agent-based modeling meets gaming simulation. ResearchGate. https://www.researchgate.net/publication/321596055_Agent-Based_Modeling_Meets_Gaming_Simulation
 Lehtonen, M. J., Vesa, M., & Harviainen, J. T. (2022). Games-as-a-disservice: Emergent value co-destruction in platform business models. Journal of Business Research, 141, 564–574. https://doi.org/10.1016/j.jbusres.2021.11.055
 Jonnalagadda, A., Frosio, I., Schneider, S., McGuire, M., & Kim, J. (2021). Robust vision-based cheat detection in competitive gaming. Proceedings of the ACM on Computer Graphics and Interactive Techniques, 4(1), 1–18. https://doi.org/10.1145/3451259
-
-
-
-Attestation
-
-Our project team members unanimously agree that each person made substantial and unique contributions to both the final report and the project as a whole. The project team utilizes the Contributor Role Taxonomy (CRediT) to define each member's responsibilities and roles for transparent recognition of collaborative work.
-
-Faraz Akbarzadeh (Leader/Facilitator):
-Conceptualization: The project initiator developed the concept and design framework to maintain vision consistency across project stages.
-Project Administration: The project timeline was managed while meetings were coordinated and team communication facilitated to maintain both progress and accountability.
-Data Curation: Managed simulation data organization and verification processes to achieve accurate and consistent analysis results for presentation purposes.
-Writing – Original Draft (Ethical & Societal Reflections): Created the first version of ethical considerations and societal implications by blending academic views and actual case studies.
-Writing – Review & Editing: I evaluated drafts critically while enhancing content clarity through refinement to improve coherence.
-
-Adil Guluzade (Checker/Editor):
-Visualization: The creation of data visualizations through graphs and annotated visuals enabled better understanding of simulation results.
-Writing – Original Draft (Observations & Results): I created the analysis section where quantitative metrics were systematically presented alongside insights into emergent behavior patterns.
-Review & Editing: Verified that the report maintained linguistic accuracy while presenting coherent content with logical progression.
-Validation: Performed an extensive evaluation of simulation results to confirm their alignment with existing documentation and theoretical predictions.
-Santusht Arora (Devil’s Advocate/Software Developer):
-Software Development: The simulation model was developed through Mesa with optimization efforts to establish fundamental agent behaviors and dynamic interactions.
-Methodology: Provided significant input to the development of the methodological framework through the design of adaptive algorithms for cheat detection.
-Validation: Validation included testing simulation stability and accuracy while resolving computational difficulties and debugging problems.
-Formal Analysis: Our team performed an extensive analysis of emergent behaviors and recorded results together.
-Collaborative Effort: The project demonstrated true teamwork because each team member engaged in developing both the concept and execution of the simulation and reporting process. The team exhibited unwavering dedication to quality work through their consistent engagement in discussions and problem-solving activities as well as iterative refinements. The attestation shows that the team maintained a unified commitment to thorough analysis and clear communication during all phases of the project.
-
